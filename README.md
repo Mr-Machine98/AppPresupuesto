@@ -15,4 +15,10 @@ Lo que hay que tener claro es lo siguiente, entender con lo que se va a trabajar
 Este es el diagrama para construir el programa:
 > ![AppPresupuesto](https://github.com/Mr-Machine98/AppPresupuesto/blob/main/img/AppPresupuesto.jpg)
 
+Explicaciones de la funciones:
+- CargarApp(); -> Función principal que se encarga de ejecutar funciones para los
+- 
+- 
+- 
+
 
