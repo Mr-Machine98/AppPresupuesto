@@ -15,10 +15,10 @@ Lo que hay que tener claro es lo siguiente, entender con lo que se va a trabajar
 Este es el diagrama para construir el programa:
 > ![AppPresupuesto](https://github.com/Mr-Machine98/AppPresupuesto/blob/main/img/AppPresupuesto.jpg)
 
-Explicaciones de la funciones:
-- CargarApp(); -> Función principal que se encarga de ejecutar funciones para los
-- 
-- 
-- 
+Explicaciones de la funciones principales:
+- **cargarApp();** -> Función principal que se encarga de ejecutar funciones para los cálculos del presupuesto, cargar la lista de los ingresos e egresos.
+- **cargarIngresos();** -> recorre el arr[] de ingresos, y crea un string grande que contiene etiquetas html para mostrar la lista de los ingresos.
+- **cargarEgresos();** -> recorre el arr[] de egresos, y crea un string grande que contiene etiquetas html para mostrar la lista de los egresos.
+- **cargarCabecero();** -> carga los cálculos del presupuesto.
 
 
