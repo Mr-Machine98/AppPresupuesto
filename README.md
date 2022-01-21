@@ -4,7 +4,9 @@ Este es el enlace al sitio -> [Project AppPresupuesto](https://mr-machine98.gith
 
 La página de incio debería verse de la siguiente forma:
 > ![AppPresupuesto](https://github.com/Mr-Machine98/AppPresupuesto/blob/main/img/apppresupuesto.png)
+> 
 > Página sin CSS:
+> 
 > ![AppPresupuesto](https://github.com/Mr-Machine98/AppPresupuesto/blob/main/img/Screenshot%20from%202022-01-21%2011-51-51.png)
 
 -------------------------------------------------------------
